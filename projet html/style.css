@@ -1,0 +1,43 @@
+.A {
+    text-align: center;
+}
+.B {
+    transform: translate(00% , -20%);
+}
+.tasty{
+    background-color: rgb(55, 49, 80);
+    height: 7cm;
+    width: 19cm; 
+    margin: 5cm;
+    transform: translate(110% , -133%);
+    text-align: center;
+}
+.pizza{
+    background-color: rgb(55, 49, 80);
+    height: 7cm;
+    width: 19cm; 
+    transform: translate(15% , -304%);
+    
+}
+.z{
+transform: translate(80px , 120px);
+font-size: 20px;
+}
+.cercle1{
+transform: translate(-35% , -305%);
+border-radius: -50px , 50px , 50px , 50px;
+
+}
+.cercle2{
+
+}
+.menus{
+    transform: translate(300px , -2250px);
+    color: rgb(244, 239, 239);
+   
+    
+}
+
+.texte{
+    transform: translate(300px , 2250px);
+}
